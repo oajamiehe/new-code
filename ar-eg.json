@@ -1,0 +1,25 @@
+{
+  "glossary": {
+    "title": "المثال المسرد",
+    "GlossDiv": {
+      "title": "S",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": "إس جي إم إل",
+          "SortAs": "إس جي إم إل",
+          "GlossTerm": "لغة الترميز القياسي العام",
+          "Acronym": "إس جي إم إل",
+          "Abbrev": "ISO 8879: 1986",
+          "GlossDef": {
+            "para": "لغة الفوقية العلامات، وتستخدم لخلق لغات البرمجة: مثل دوكبوك.",
+            "GlossSeeAlso": [
+              "GML",
+              "XML"]
+            
+          },
+          "GlossSee": "العلامات"
+        }
+      }
+    }
+  }
+}
